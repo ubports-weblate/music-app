@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: music-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-27 19:11-0600\n"
-"PO-Revision-Date: 2018-10-28 00:00+0000\n"
+"PO-Revision-Date: 2018-11-18 04:44+0000\n"
 "Last-Translator: Louies <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
 "ubports/music-app/zh_Hant/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.0.1\n"
+"X-Generator: Weblate 3.1.1\n"
 "X-Launchpad-Export-Date: 2017-04-14 05:53+0000\n"
 
 #: ../app/components/Dialog/ContentHubErrorDialog.qml:35
@@ -124,12 +124,12 @@ msgstr "檔必須包含在以下路徑"
 #. TRANSLATORS: This string represents that a blank filepath destination has been used
 #: ../app/components/Helpers/ContentHubHelper.qml:112
 msgid "Filepath must be a file"
-msgstr "檔案路徑必須是文件"
+msgstr "檔路徑必須是一個檔"
 
 #. TRANSLATORS: This string represents that there was failure moving the file to the target destination
 #: ../app/components/Helpers/ContentHubHelper.qml:118
 msgid "Failed to move file"
-msgstr "未能移動檔案"
+msgstr "無法移動檔案"
 
 #. TRANSLATORS: this refers to a number of tracks greater than one. The actual number will be prepended to the string automatically (plural forms are not yet fully supported in usermetrics, the library that displays that string)
 #: ../app/components/Helpers/UserMetricsHelper.qml:31
@@ -394,7 +394,7 @@ msgstr "音訊"
 
 #: com.ubuntu.music_music.desktop.in.in.h:2
 msgid "A music application for Ubuntu"
-msgstr "Ubuntu 音樂程式"
+msgstr "Ubuntu的音樂應用程式"
 
 #: com.ubuntu.music_music.desktop.in.in.h:3
 msgid "music;songs;play;tracks;player;tunes;"
