@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: music-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-27 19:11-0600\n"
-"PO-Revision-Date: 2018-11-08 14:18+0000\n"
+"PO-Revision-Date: 2018-11-25 00:00+0000\n"
 "Last-Translator: Joan CiberSheep <cibersheep@gmail.com>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/ubports/"
 "music-app/ca/>\n"
@@ -51,7 +51,7 @@ msgstr "Canvia el nom de la llista de reproducció"
 #: ../app/components/Dialog/EditPlaylistDialog.qml:37
 #: ../app/components/Dialog/NewPlaylistDialog.qml:34
 msgid "Enter playlist name"
-msgstr "Escriviu el nom de la llista de reproducció"
+msgstr "Escriviu el nom de la llista"
 
 #: ../app/components/Dialog/EditPlaylistDialog.qml:46
 msgid "Change"
@@ -166,8 +166,8 @@ msgid ""
 "Get more out of Music by tapping the %1 icon to start making playlists for "
 "every mood and occasion."
 msgstr ""
-"Feu servir tot el potencial de l'aplicació Música i feu un toc a la icona %1 "
-"per començar a crear llistes de reproducció per cada ocasió i estat d'ànim."
+"Useu tot el potencial de l'app: Toqueu la icona %1 i creeu llistes de "
+"reproducció per cada ocasió i estat d'ànim."
 
 #. TRANSLATORS: this appears in a button with limited space (around 14 characters)
 #: ../app/components/ViewButton/PlayAllButton.qml:28
@@ -193,9 +193,9 @@ msgid ""
 "Enjoy your favorite music with Ubuntu's Music App. Take a short tour on how "
 "to get started or press skip to start listening now."
 msgstr ""
-"Gaudiu de la vostra música preferida amb l'aplicació de Música de l'Ubuntu. "
-"Feu una breu visita guiada per començar, o bé feu un toc a Omet per escoltar "
-"música directament."
+"Gaudiu de la vostra música preferida amb aquesta aplicació. Feu una breu "
+"visita guiada d'introducció, o bé toqueu «Omet» per començar a escoltar "
+"música ara."
 
 #: ../app/components/Walkthrough/Slide2.qml:54
 msgid "Import your music"
