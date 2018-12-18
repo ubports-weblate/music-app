@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: music-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-27 19:11-0600\n"
-"PO-Revision-Date: 2018-11-18 04:44+0000\n"
+"PO-Revision-Date: 2018-12-23 00:00+0000\n"
 "Last-Translator: Louies <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
 "ubports/music-app/zh_Hant/>\n"
@@ -225,7 +225,7 @@ msgstr "略過"
 
 #: ../app/music-app.qml:158
 msgid "Next"
-msgstr "下一個"
+msgstr "下一步"
 
 #: ../app/music-app.qml:159
 msgid "Next Track"
@@ -257,7 +257,7 @@ msgstr "返回上一頁"
 
 #: ../app/music-app.qml:181
 msgid "Previous"
-msgstr "上一個"
+msgstr "最近"
 
 #: ../app/music-app.qml:182
 msgid "Previous Track"
