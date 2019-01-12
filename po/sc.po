@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: music-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-27 19:11-0600\n"
-"PO-Revision-Date: 2018-12-28 09:14+0000\n"
+"PO-Revision-Date: 2019-01-20 00:00+0000\n"
 "Last-Translator: Adrià <adriamartinmor@gmail.com>\n"
 "Language-Team: Sardinian <https://translate.ubports.com/projects/ubports/"
 "music-app/sc/>\n"
@@ -46,12 +46,12 @@ msgstr "Isetende is archìvios..."
 #. TRANSLATORS: this is a title of a dialog with a prompt to rename a playlist
 #: ../app/components/Dialog/EditPlaylistDialog.qml:30
 msgid "Rename playlist"
-msgstr "Muda su nòmine de sa playlist"
+msgstr "Muda su nòmine de sa lista de riprodutzione"
 
 #: ../app/components/Dialog/EditPlaylistDialog.qml:37
 #: ../app/components/Dialog/NewPlaylistDialog.qml:34
 msgid "Enter playlist name"
-msgstr "Inserta·nche su nòmine de sa playlist"
+msgstr "Inserta·nche su nòmine de sa lista de riprodutzione"
 
 #: ../app/components/Dialog/EditPlaylistDialog.qml:46
 msgid "Change"
@@ -60,7 +60,7 @@ msgstr "Muda"
 #: ../app/components/Dialog/EditPlaylistDialog.qml:67
 #: ../app/components/Dialog/NewPlaylistDialog.qml:60
 msgid "Playlist already exists"
-msgstr "Custa playlist esistet giai"
+msgstr "Custa lista de riprodutzione esistet giai"
 
 #: ../app/components/Dialog/EditPlaylistDialog.qml:71
 #: ../app/components/Dialog/NewPlaylistDialog.qml:65
@@ -78,7 +78,7 @@ msgstr "Crea"
 #. TRANSLATORS: this is a title of a dialog with a prompt to delete a playlist
 #: ../app/components/Dialog/RemovePlaylistDialog.qml:31
 msgid "Permanently delete playlist?"
-msgstr "Boles cantzellare custa playlist de manera definitiva?"
+msgstr "Boles cantzellare custa lista de riprodutzione de manera definitiva?"
 
 #: ../app/components/Dialog/RemovePlaylistDialog.qml:32
 msgid "This cannot be undone"
@@ -87,7 +87,7 @@ msgstr "Custa atzione non la podes annullare"
 #: ../app/components/Dialog/RemovePlaylistDialog.qml:37
 #: ../app/components/ListItemActions/Remove.qml:27
 msgid "Remove"
-msgstr "Fùlia"
+msgstr "Boga"
 
 #: ../app/components/HeadState/MultiSelectHeadState.qml:28
 msgid "Select All"
@@ -98,7 +98,7 @@ msgstr "Seletziona totus"
 #: ../app/components/ListItemActions/AddToPlaylist.qml:26
 #: ../app/ui/NowPlaying.qml:105
 msgid "Add to playlist"
-msgstr "Agiunghe a sa playlist"
+msgstr "Agiunghe a sa lista de riprodutzione"
 
 #: ../app/components/HeadState/MultiSelectHeadState.qml:58
 msgid "Add to queue"
@@ -158,7 +158,7 @@ msgstr "Toca pro reprodùere in modalidade casuale"
 
 #: ../app/components/PlaylistsEmptyState.qml:42
 msgid "No playlists found"
-msgstr "No s'est agatada peruna playlist"
+msgstr "No s'est agatada peruna lista de riprodutzione"
 
 #: ../app/components/PlaylistsEmptyState.qml:53
 #, qt-format
@@ -166,8 +166,8 @@ msgid ""
 "Get more out of Music by tapping the %1 icon to start making playlists for "
 "every mood and occasion."
 msgstr ""
-"Preme s'icona %1 pro creare playlist segundu s'umore tuo o pro calesi siat "
-"àtera ocasione."
+"Preme s'icona %1 pro creare lista de riprodutzione segundu s'umore tuo o pro "
+"calesi siat àtera ocasione."
 
 #. TRANSLATORS: this appears in a button with limited space (around 14 characters)
 #: ../app/components/ViewButton/PlayAllButton.qml:28
@@ -291,7 +291,7 @@ msgstr "S'est reproduende"
 #. TRANSLATORS: this appears in the header with limited space (around 20 characters)
 #: ../app/ui/AddToPlaylist.qml:43
 msgid "Select playlist"
-msgstr "Seletziona playlist"
+msgstr "Seletziona lista de riprodutzione"
 
 #: ../app/ui/AddToPlaylist.qml:99 ../app/ui/Playlists.qml:94
 #: ../app/ui/SongsView.qml:291 ../app/ui/SongsView.qml:292
