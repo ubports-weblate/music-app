@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: music-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-27 19:11-0600\n"
-"PO-Revision-Date: 2018-11-11 05:00+0000\n"
-"Last-Translator: Sander <sander.k1007@kpnmail.nl>\n"
+"PO-Revision-Date: 2019-03-07 21:53+0000\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <https://translate.ubports.com/projects/ubports/"
 "music-app/nl/>\n"
 "Language: nl\n"
@@ -37,7 +37,7 @@ msgstr "Wacht"
 #: ../app/components/Dialog/NewPlaylistDialog.qml:71
 #: ../app/components/Dialog/RemovePlaylistDialog.qml:60
 msgid "Cancel"
-msgstr "Annuleren"
+msgstr "Afbreken"
 
 #: ../app/components/Dialog/ContentHubWaitDialog.qml:34
 msgid "Waiting for file(s)..."
@@ -46,16 +46,16 @@ msgstr "Wachten op bestand(en)…"
 #. TRANSLATORS: this is a title of a dialog with a prompt to rename a playlist
 #: ../app/components/Dialog/EditPlaylistDialog.qml:30
 msgid "Rename playlist"
-msgstr "Afspeellijst hernoemen"
+msgstr "Afspeellijstnaam wijzigen"
 
 #: ../app/components/Dialog/EditPlaylistDialog.qml:37
 #: ../app/components/Dialog/NewPlaylistDialog.qml:34
 msgid "Enter playlist name"
-msgstr "Voer afspeellijstnaam in"
+msgstr "Voer een naam in voor de afspeellijst"
 
 #: ../app/components/Dialog/EditPlaylistDialog.qml:46
 msgid "Change"
-msgstr "Wijzig"
+msgstr "Wijzigen"
 
 #: ../app/components/Dialog/EditPlaylistDialog.qml:67
 #: ../app/components/Dialog/NewPlaylistDialog.qml:60
@@ -73,16 +73,16 @@ msgstr "Nieuwe afspeellijst"
 
 #: ../app/components/Dialog/NewPlaylistDialog.qml:44
 msgid "Create"
-msgstr "Aanmaken"
+msgstr "Creëren"
 
 #. TRANSLATORS: this is a title of a dialog with a prompt to delete a playlist
 #: ../app/components/Dialog/RemovePlaylistDialog.qml:31
 msgid "Permanently delete playlist?"
-msgstr "Afspeellijst definitief verwijderen?"
+msgstr "Wil je de afspeellijst definitief verwijderen?"
 
 #: ../app/components/Dialog/RemovePlaylistDialog.qml:32
 msgid "This cannot be undone"
-msgstr "Dit kan niet ongedaan gemaakt worden"
+msgstr "Dit kan niet ongedaan worden gemaakt"
 
 #: ../app/components/Dialog/RemovePlaylistDialog.qml:37
 #: ../app/components/ListItemActions/Remove.qml:27
@@ -98,7 +98,7 @@ msgstr "Alles selecteren"
 #: ../app/components/ListItemActions/AddToPlaylist.qml:26
 #: ../app/ui/NowPlaying.qml:105
 msgid "Add to playlist"
-msgstr "Aan afspeellijst toevoegen"
+msgstr "Toev. aan afspeellijst"
 
 #: ../app/components/HeadState/MultiSelectHeadState.qml:58
 msgid "Add to queue"
@@ -114,12 +114,12 @@ msgstr "Selectie ongedaan maken"
 
 #: ../app/components/HeadState/SearchHeadState.qml:42
 msgid "Search music"
-msgstr "Muziek zoeken"
+msgstr "Muziek doorzoeken"
 
 #. TRANSLATORS: This string represents that the target destination filepath does not start with ~/Music/Imported/
 #: ../app/components/Helpers/ContentHubHelper.qml:86
 msgid "Filepath must start with"
-msgstr "Het pad naar het bestand moet starten met"
+msgstr "Het bestandspad moet beginnen met"
 
 #. TRANSLATORS: This string represents that a blank filepath destination has been used
 #: ../app/components/Helpers/ContentHubHelper.qml:112
@@ -129,16 +129,16 @@ msgstr "Het doel moet een bestand zijn"
 #. TRANSLATORS: This string represents that there was failure moving the file to the target destination
 #: ../app/components/Helpers/ContentHubHelper.qml:118
 msgid "Failed to move file"
-msgstr "Kon bestand niet verplaatsen"
+msgstr "Kan bestand niet verplaatsen"
 
 #. TRANSLATORS: this refers to a number of tracks greater than one. The actual number will be prepended to the string automatically (plural forms are not yet fully supported in usermetrics, the library that displays that string)
 #: ../app/components/Helpers/UserMetricsHelper.qml:31
 msgid "tracks played today"
-msgstr "vandaag afgespeelde tracks"
+msgstr "vandaag afgespeelde nummers"
 
 #: ../app/components/Helpers/UserMetricsHelper.qml:32
 msgid "No tracks played today"
-msgstr "Geen tracks afgespeeld vandaag"
+msgstr "Vandaag heb je geen nummers afgespeeld"
 
 #: ../app/components/ListItemActions/AddToQueue.qml:28
 msgid "Add to Queue"
@@ -154,7 +154,7 @@ msgstr "Geen items gevonden"
 
 #: ../app/components/MusicToolbar.qml:91
 msgid "Tap to shuffle music"
-msgstr "Tik om muziek willekeurig af te spelen"
+msgstr "Druk om muziek willekeurig af te spelen"
 
 #: ../app/components/PlaylistsEmptyState.qml:42
 msgid "No playlists found"
@@ -166,8 +166,8 @@ msgid ""
 "Get more out of Music by tapping the %1 icon to start making playlists for "
 "every mood and occasion."
 msgstr ""
-"Via de muziekapp kunt u ook afspeellijsten aanmaken voor een bepaalde "
-"stemming of gelegenheid door op het %1-icoon te drukken."
+"Met de muziekapp kun je ook afspeellijsten creëren voor een bepaalde "
+"stemming of gelegenheid door op het %1-pictogram te drukken."
 
 #. TRANSLATORS: this appears in a button with limited space (around 14 characters)
 #: ../app/components/ViewButton/PlayAllButton.qml:28
@@ -193,13 +193,12 @@ msgid ""
 "Enjoy your favorite music with Ubuntu's Music App. Take a short tour on how "
 "to get started or press skip to start listening now."
 msgstr ""
-"Geniet van uw favoriete muziek met Ubuntu's muziekapp. Leer de "
-"grondbeginselen kennen door de korte rondleiding te nemen of druk op "
-"overslaan om meteen te beginnen met luisteren."
+"Geniet van je favoriete muziek met Ubuntu's muziekapp. Leer de app kennen "
+"door de korte rondleiding te nemen of druk op overslaan om zelf te ontdekken."
 
 #: ../app/components/Walkthrough/Slide2.qml:54
 msgid "Import your music"
-msgstr "Importeer uw muziek"
+msgstr "Importeer je muziek"
 
 #: ../app/components/Walkthrough/Slide2.qml:67
 #: ../app/ui/LibraryEmptyState.qml:131
@@ -207,8 +206,8 @@ msgid ""
 "Connect your device to any computer and simply drag files to the Music "
 "folder or insert removable media with music."
 msgstr ""
-"Verbind uw apparaat met een willekeurige computer en versleep eenvoudigweg "
-"bestanden naar de muziekmap of sluit een verwijderbaar medium aan met muziek."
+"Verbind je apparaat met een willekeurige computer en versleep bestanden naar "
+"de muziekmap of sluit externe opslag aan die muziek bevat."
 
 #: ../app/components/Walkthrough/Slide3.qml:54
 msgid "Download new music"
@@ -216,11 +215,11 @@ msgstr "Nieuwe muziek downloaden"
 
 #: ../app/components/Walkthrough/Slide3.qml:67
 msgid "Directly import music bought while browsing online."
-msgstr "Online gekochte muziek direct importeren."
+msgstr "Importeer direct je online aangeschafte muziek."
 
 #: ../app/components/Walkthrough/Slide3.qml:81
 msgid "Start"
-msgstr "Start"
+msgstr "Starten"
 
 #: ../app/components/Walkthrough/Walkthrough.qml:119
 msgid "Skip"
@@ -228,7 +227,7 @@ msgstr "Overslaan"
 
 #: ../app/music-app.qml:158
 msgid "Next"
-msgstr "Volg."
+msgstr "Volgende"
 
 #: ../app/music-app.qml:159
 msgid "Next Track"
@@ -248,11 +247,11 @@ msgstr "Afspelen pauzeren"
 
 #: ../app/music-app.qml:167
 msgid "Continue or start playback"
-msgstr "Afspelen starten of voortzetten"
+msgstr "Afspelen starten of hervatten"
 
 #: ../app/music-app.qml:172
 msgid "Back"
-msgstr "Vorige"
+msgstr "Terug"
 
 #: ../app/music-app.qml:173
 msgid "Go back to last page"
@@ -268,7 +267,7 @@ msgstr "Vorig nummer"
 
 #: ../app/music-app.qml:187
 msgid "Stop"
-msgstr "Stop"
+msgstr "Stoppen"
 
 #: ../app/music-app.qml:188
 msgid "Stop Playback"
@@ -297,8 +296,8 @@ msgstr "Selecteer een afspeellijst"
 #, qt-format
 msgid "%1 track"
 msgid_plural "%1 tracks"
-msgstr[0] "%1 track"
-msgstr[1] "%1 tracks"
+msgstr[0] "%1 nummer"
+msgstr[1] "%1 nummers"
 
 #. TRANSLATORS: this is the name of the playlists page shown in the tab header.
 #. Remember to keep the translation short to fit the screen width
@@ -350,7 +349,7 @@ msgstr "Artiest"
 
 #: ../app/ui/ContentHubExport.qml:34
 msgid "Export Track"
-msgstr "Track Exporteren"
+msgstr "Nummer exporteren"
 
 #: ../app/ui/Genres.qml:32
 msgid "Genres"
@@ -380,7 +379,7 @@ msgstr "Wachtrij"
 #. TRANSLATORS: this action appears in the overflow drawer with limited space (around 18 characters)
 #: ../app/ui/NowPlaying.qml:122
 msgid "Clear queue"
-msgstr "Wachtrij wissen"
+msgstr "Wachtrij leegmaken"
 
 #: ../app/ui/Playlists.qml:106 ../app/ui/Playlists.qml:107
 #: ../app/ui/Recent.qml:89 ../app/ui/Recent.qml:104 ../app/ui/SongsView.qml:66
@@ -395,7 +394,7 @@ msgstr "Afspeellijst"
 
 #: ../app/ui/Songs.qml:36
 msgid "Tracks"
-msgstr "Tracks"
+msgstr "Nummers"
 
 #: com.ubuntu.music_music.desktop.in.in.h:2
 msgid "A music application for Ubuntu"
@@ -403,6 +402,4 @@ msgstr "Een muziekapp voor Ubuntu"
 
 #: com.ubuntu.music_music.desktop.in.in.h:3
 msgid "music;songs;play;tracks;player;tunes;"
-msgstr ""
-"music;songs;play;tracks;player;tunes;muziek;nummers;afspelen;liedjes;speler;"
-"deuntjes;"
+msgstr "muziek;nummers;afspelen;liedjes;speler;deuntjes;"
