@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: music-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-27 19:11-0600\n"
-"PO-Revision-Date: 2019-03-07 21:54+0000\n"
-"Last-Translator: Ivo Xavier <ivofernandes12@gmail.com>\n"
+"PO-Revision-Date: 2019-03-17 00:00+0000\n"
+"Last-Translator: Rúben Carneiro <rubencarneiro01@gmail.com>\n"
 "Language-Team: Portuguese <https://translate.ubports.com/projects/ubports/"
 "music-app/pt/>\n"
 "Language: pt\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../app/components/Dialog/ContentHubErrorDialog.qml:35
 msgid "OK"
-msgstr "OK"
+msgstr "Confirmar"
 
 #: ../app/components/Dialog/ContentHubNotFoundDialog.qml:29
 msgid "Imported file not found"
@@ -305,7 +305,7 @@ msgstr[1] "%1 músicas"
 #: ../app/ui/AddToPlaylist.qml:104 ../app/ui/Playlists.qml:36
 #: ../app/ui/SongsView.qml:102
 msgid "Playlists"
-msgstr "Playlists"
+msgstr "Lista de reprodução"
 
 #: ../app/ui/AddToPlaylist.qml:114 ../app/ui/Recent.qml:34
 #: ../app/ui/SongsView.qml:90
