@@ -8,16 +8,17 @@ msgstr ""
 "Project-Id-Version: music-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-27 19:11-0600\n"
-"PO-Revision-Date: 2018-06-03 17:17+0000\n"
-"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
-"Language-Team: Hebrew <https://translate.ubports.com/projects/ubports/music-"
-"app/he/>\n"
+"PO-Revision-Date: 2019-03-31 00:00+0000\n"
+"Last-Translator: maor26 <maor262@gmail.com>\n"
+"Language-Team: Hebrew <https://translate.ubports.com/projects/ubports/"
+"music-app/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.15\n"
+"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
+"n % 10 == 0) ? 2 : 3));\n"
+"X-Generator: Weblate 3.1.1\n"
 "X-Launchpad-Export-Date: 2017-04-14 05:53+0000\n"
 
 #: ../app/components/Dialog/ContentHubErrorDialog.qml:35
@@ -106,7 +107,7 @@ msgstr "הוספה לתור"
 
 #: ../app/components/HeadState/MultiSelectHeadState.qml:77
 msgid "Delete"
-msgstr "מחיקה"
+msgstr "מחק"
 
 #: ../app/components/HeadState/MultiSelectHeadState.qml:89
 msgid "Cancel selection"
@@ -251,7 +252,7 @@ msgstr "להמשיך או להתחיל בנגינה"
 
 #: ../app/music-app.qml:172
 msgid "Back"
-msgstr "חזרה"
+msgstr "אחורה"
 
 #: ../app/music-app.qml:173
 msgid "Go back to last page"
