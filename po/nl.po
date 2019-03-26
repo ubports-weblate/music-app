@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: music-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-27 19:11-0600\n"
-"PO-Revision-Date: 2019-03-07 21:53+0000\n"
-"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"PO-Revision-Date: 2019-03-31 00:00+0000\n"
+"Last-Translator: Tom Dom <thomas@patoel.nl>\n"
 "Language-Team: Dutch <https://translate.ubports.com/projects/ubports/"
 "music-app/nl/>\n"
 "Language: nl\n"
@@ -37,7 +37,7 @@ msgstr "Wacht"
 #: ../app/components/Dialog/NewPlaylistDialog.qml:71
 #: ../app/components/Dialog/RemovePlaylistDialog.qml:60
 msgid "Cancel"
-msgstr "Afbreken"
+msgstr "Annuleren"
 
 #: ../app/components/Dialog/ContentHubWaitDialog.qml:34
 msgid "Waiting for file(s)..."
@@ -227,7 +227,7 @@ msgstr "Overslaan"
 
 #: ../app/music-app.qml:158
 msgid "Next"
-msgstr "Volgende"
+msgstr "Volg."
 
 #: ../app/music-app.qml:159
 msgid "Next Track"
@@ -251,7 +251,7 @@ msgstr "Afspelen starten of hervatten"
 
 #: ../app/music-app.qml:172
 msgid "Back"
-msgstr "Terug"
+msgstr "Vorige"
 
 #: ../app/music-app.qml:173
 msgid "Go back to last page"
