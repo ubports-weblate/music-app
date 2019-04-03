@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: music-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-27 19:11-0600\n"
-"PO-Revision-Date: 2019-03-31 00:00+0000\n"
+"PO-Revision-Date: 2019-04-13 14:41+0000\n"
 "Last-Translator: Tom Dom <thomas@patoel.nl>\n"
 "Language-Team: Dutch <https://translate.ubports.com/projects/ubports/"
 "music-app/nl/>\n"
@@ -106,7 +106,7 @@ msgstr "Toevoegen aan wachtrij"
 
 #: ../app/components/HeadState/MultiSelectHeadState.qml:77
 msgid "Delete"
-msgstr "Verwijderen"
+msgstr "Verwijder"
 
 #: ../app/components/HeadState/MultiSelectHeadState.qml:89
 msgid "Cancel selection"
